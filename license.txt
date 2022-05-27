@@ -1,0 +1,11 @@
+Model Information:
+* title:	Indamine B
+* source:	https://sketchfab.com/3d-models/indamine-b-b32be57466fd4797967acf0cd67f57b1
+* author:	bobasrego (https://sketchfab.com/bobasrego)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Indamine B" (https://sketchfab.com/3d-models/indamine-b-b32be57466fd4797967acf0cd67f57b1) by bobasrego (https://sketchfab.com/bobasrego) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
